@@ -1,4 +1,4 @@
-# 19CS545-Ex2 - Configure SElinux in GitHub
+# 19CS545-Ex2 - Configure SElinux 
 
 # AIM:
 To create a Repository
